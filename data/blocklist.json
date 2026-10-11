@@ -1,0 +1,10 @@
+[{"ip":"203.0.113.16","reason":"brute force"},
+{"ip":"203.0.113.31","reason":"brute force"},
+{"ip":"203.0.113.3","reason":"malware"},
+{"ip":"203.0.113.30","reason":"spam"},
+{"ip":"203.0.113.50","reason":"malware"},
+{"ip":"203.0.113.7","reason":"malware"},
+{"ip":"203.0.113.8","reason":"tor exit node"},
+{"ip":"203.0.113.99","reason":"tor exit node"},
+{"ip":"203.0.113.23","reason":"malware"},
+{"ip":"203.0.113.88","reason":"malware"}]
